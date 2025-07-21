@@ -92,7 +92,7 @@ Desarrollo de proyectos con Vue.js, Laravel, Node.js e Ionic. Garantizando la es
 
 ## 🎓 Formación Académica
 
-- 🎓 **Ingeniería de Sistemas** - Universidad UNICIENCIA *(2025 - En curso)*
+- 🎓 **Ingeniería de Sistemas** - Universidad UNICIENCIA *(2025 - En proceso de titulación)*
 - 📚 **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** - SENA *(2018)*
 
 ---
