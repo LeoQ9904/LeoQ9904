@@ -9,7 +9,7 @@ Desarrollador Web Full Stack con **3 años de experiencia** en el diseño, desar
 Poseo un enfoque orientado a resultados, con sólidos conocimientos en tecnologías frontend y backend. Me destaco por mi **proactividad, adaptabilidad y compromiso** con la mejora continua, manteniéndome actualizado en tendencias y buenas prácticas del desarrollo web. Busco constantemente la excelencia técnica mediante la implementación de soluciones robustas, escalables y alineadas con los objetivos de negocio.
 
 ### 🌟 Mi Última Creación
-🔗 **[Listo App - Gestor de Tareas](https://tast-leo.firebaseapp.com/)** 
+🔗 **[Tasks List - Gestor de Tareas](https://tast-leo.firebaseapp.com/)** 
 
 Una aplicación completa de gestión de tareas con autenticación, categorías personalizables y sincronización en tiempo real.
 
@@ -137,7 +137,7 @@ He liderado iniciativas de mantenimiento evolutivo en una aplicación de **histo
 
 ## 🌟 Proyecto Destacado
 
-### 📋 [Listo App - Gestor de Tareas](https://tast-leo.firebaseapp.com/)
+### 📋 [Tasks List - Gestor de Tareas](https://tast-leo.firebaseapp.com/)
 
 <div align="left">
   <img src="https://img.shields.io/badge/🚀-En_Producción-success?style=for-the-badge" alt="En Producción"/>
